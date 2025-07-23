@@ -33,13 +33,7 @@ This AI web application predicts employee salaries based on key professional att
 - **Visualization**: Matplotlib
 - **Model Deployment**: Joblib
 
-## 🚀 Installation
-```bash
-git clone https://github.com/<your-github-username>/Employee-Salary-Prediction-Rachel-Arora.git
-cd Employee-Salary-Prediction-Rachel-Arora
-pip install -r requirements.txt
-streamlit run app.py
-```
+  
 ## 🔮 Future Enhancements
 - **🌐 Multilingual interface support**: Expand accessibility with language options
 - **📊 Interactive salary visualizations**: Dynamic charts showing prediction factors
