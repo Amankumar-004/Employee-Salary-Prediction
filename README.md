@@ -54,4 +54,6 @@ streamlit run app.py
 - Dataset source: [Kaggle](https://www.kaggle.com/)
 - IBM SkillsBuild & Edunet Foundation
 - AICTE Internship Portal
-
+🧑‍💻 **Created by**:Aman Prajapati
+💌 **Connect**:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-amanprajapati-%230A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amanprajapati004/)
