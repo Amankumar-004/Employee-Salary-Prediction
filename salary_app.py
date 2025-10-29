@@ -1,11 +1,10 @@
 import streamlit as st
-import joblib
 import pandas as pd
 import numpy as np
 import plotly.express as px
-import plotly.graph_objects as go
-from datetime import datetime
-import time
+from sklearn.linear_model import LinearRegression
+import joblib
+
 
 # Page configuration
 st.set_page_config(
